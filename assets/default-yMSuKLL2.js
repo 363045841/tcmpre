@@ -1,0 +1,1 @@
+import{d as r,o as p,c as s,w as o,a as e,r as t,V as _,b as c}from"./index-Vjgxr_fm.js";const f=r({__name:"default",setup(l){return(u,m)=>{const a=t("router-view"),n=t("AppFooter");return p(),s(c,null,{default:o(()=>[e(_,null,{default:o(()=>[e(a)]),_:1}),e(n)]),_:1})}}});export{f as default};
